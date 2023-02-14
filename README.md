@@ -4,7 +4,7 @@ DUPLA/TRIO:
 
 - Rodrigo Medeiros
 - Matheus Castellucci
-- DIGITE O NOME DO TERCEIRO INTEGRANTE
+- Pedro Ivo
 - Link do GitHub Pages: COLOQUE O LINK AQUI (POR EXEMPLO: https://insper-tecnologias-web.github.io/desafio-css/)
 
 ## Desafio CSS
