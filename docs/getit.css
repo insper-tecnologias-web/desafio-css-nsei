@@ -32,6 +32,11 @@ img {
   padding: 0.3em 0.7em 0.3em 0em;
 }
 
+/* p {
+  display: flex;
+  flex-grow: 1; */
+/* } */
+
 /* Você pode usar o CSS comentado abaixo, se ajudar */
 /* Fonte: https://codepen.io/CrisWoler/pen/ogXBLj */
 .btn {
@@ -142,7 +147,6 @@ img {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: space-between;
   width: 12em;
   height: 7em;
   padding: 0.5em;
@@ -150,6 +154,12 @@ img {
   border-radius: 0.3em;
   box-shadow: 0 0.2em 0.7em rgba(52, 51, 51, 0.6);
   background-color: #ead3a7;
+}
+
+.card:hover {
+  transform: rotate(2.5deg);
+  box-shadow: 0.3em 0.5em 0.7em rgba(52, 51, 51, 0.6);
+  transition: 0.2s;
 }
 
 .card-title {
@@ -160,6 +170,10 @@ img {
 .card-content {
   font-family: 'Permanent Marker', cursive;
   font-size: 0.9em;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .card-color-1 {
@@ -223,5 +237,5 @@ img {
 }
 
 .card-rotation-11 {
-  transform: rotate(0deg);
+  transform: rotate(0.1deg);
 }
