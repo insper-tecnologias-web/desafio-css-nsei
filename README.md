@@ -5,7 +5,7 @@ DUPLA/TRIO:
 - Rodrigo Medeiros
 - Matheus Castellucci
 - Pedro Ivo
-- Link do GitHub Pages: COLOQUE O LINK AQUI (POR EXEMPLO: https://insper-tecnologias-web.github.io/desafio-css/)
+- Link do GitHub Pages: COLOQUE O LINK AQUI (POR EXEMPLO: http://www.css-rod-mat-ivo.io/)
 
 ## Desafio CSS
 
